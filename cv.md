@@ -9,6 +9,8 @@
 
 Minsk, Leschinskogo str.
 
+220140
+
 ## E-mail  
 [Lesja01@mail.ru](Lesja01@mail.ru)
 
