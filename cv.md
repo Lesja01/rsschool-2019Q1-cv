@@ -1,9 +1,7 @@
 
-# FIRSTNAME, LASTNAME
+## FIRSTNAME, LASTNAME
 
 **Zharnasek Alesia** 
-
-# CONTACTS
 
 ## ADRESS
 
@@ -18,13 +16,13 @@ Minsk, Leschinskogo str.
 
 +375297823344 (Velcom, viber)
 
-# SUMMARY
+## SUMMARY
 
 I have not experience in IT work, and even no special education. But I have a *dream*, and an exact knowledge of the fact that a person can do *anything* if he really wants. And he will always find opportunities, but not obstacles. 
  
  Therefore, So I studied one year for a couple of hours at night, and now I am here.
 
- # SKILLS
+ ## SKILLS
 
  **What I understand and have some experience:**
 
@@ -62,7 +60,7 @@ I have not experience in IT work, and even no special education. But I have a *d
 
 ## English level
 
--*Reading*: 90%;
+-*Reading*: 80%;
 -*Aurally and speech*: A2;
 
-Good speak English is my goal number two))
+
