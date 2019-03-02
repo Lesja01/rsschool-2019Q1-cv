@@ -41,7 +41,7 @@ I have not experience in IT work, and even no special education. But I have a *d
 
 
 -  ToDo List на ReactJS(node.js, webpack, cli, babel):
-=>[https://todolist-ff62f.firebaseapp.com] (https://todolist-ff62f.firebaseapp.com)firebaseapp
+[https://todolist-ff62f.firebaseapp.com] (https://todolist-ff62f.firebaseapp.com)firebaseapp
 [https://github.com/Lesja01/TODOREACT](https://github.com/Lesja01/TODOREACT)github
 
 -  React table with sorting, filtering and scrolling
