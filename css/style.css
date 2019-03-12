@@ -1,18 +1,23 @@
-
+html{
+    width: 100%; 
+}
 body{
-    overflow-x: hidden;    
+    position: relative;
+    overflow-x: hidden; 
     max-width: 1024px;
+    width: auto;
     height: auto;
-    margin: 5% 10%;
-    padding: 0px;
+    margin: 0 auto;
+    padding: 20px;
     color:#e0e0e0; 
     font-family: "DIN", "Arial", sans-serif;
-    background: #D6CEC1 url("../assets/img/bg-table.jpg")  no-repeat;
-    background-size: contain; 
+    background-image:  url("../assets/img/bg-table.png");
+    background-repeat: no-repeat;
+    background-size:100%; 
+    border-radius: 100px;
 }
 
 header, main, footer{
-    width:100%;
     display: flex;
 }
 
@@ -27,18 +32,25 @@ header img{
     height: 220px;
     box-shadow: 3px 4px 5px rgb(61, 57, 50);
     position: absolute;
-    top: 90px;
-    right: 210px;
+    top: 70px;
+    right: 30px;
     border: 30px solid  #D6CEC1;
     transform: rotate(20deg);
+    z-index: -1;
 }
 
   
 main{
+    margin: 0 auto;
     background:  url("../assets/img/paper-eye.jpg") no-repeat;
     background-size: cover;
     opacity: 0.8;
     border-radius: 20%;
+    position: relative;
+    word-wrap:break-word;
+}
+section{
+    width: 100%;
 }
 h1, h2{
     font-family: "Japanese", "Arial", sans-serif;
@@ -56,18 +68,24 @@ button:hover{
 li{
     list-style-type: none;
 }
+.container{
+    margin: 10px 70px;
+}
 
 /*ABOUT*/
 
 .about{
     position: relative;
-    padding: 40px 75px;
+    width: 100%;    
     display: flex;
     color: #5d3c3c;
     font-weight: lighter;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 .about h2{
@@ -106,10 +124,11 @@ ul.skills{
    transform: skewX(-15deg);
 
 }
+
 .lang {
     display:flex;
     flex-flow: row;
-   
+     
 }
 .lang h3{
     margin: 13px 20px;
@@ -124,7 +143,7 @@ ul.skills{
     position: absolute;
     width: 1px;
     height: 100%;
-    background: #6ccbbe;
+    background: #ABBB7C;
     top: 0px;
     left: -12px;
 }
@@ -172,11 +191,12 @@ footer{
     height: 40px;
     text-align: center;
     padding-top: 1.2em;
-    list-style-type: none;    
+    list-style-type: none; 
+    border-radius: 5px; 
+    background: #ABBB7C;   
 }
 
 .icons a{
-    color:#04ac95;
     font-size: 13px;
     display: block;
     height: 100%;
@@ -191,28 +211,18 @@ footer{
     font-size: 15px;
     transform: scale(1.4);
 }
-
-
-#icon-1{
-    background: #a5dbd4;
-}
-
 #icon-1:hover{
-    background: #345f9f;
+    background: #dc5543;
 }
-
-#icon-2 {
-    background: #6ccbbe;
-}
-
 #icon-2:hover{
     background: #2caae1;
 }
-
-#icon-3 {
-    background: #7fd0c5;
+#icon-3:hover{
+    background: #345f9f;
 }
 
-#icon-3:hover{
-    background: #dc5543;
+@media(max-width: 860px){
+    .lang{
+         display: block;
+        }
 }
