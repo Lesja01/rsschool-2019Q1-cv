@@ -19,13 +19,13 @@ I have not experience in IT work, and even no special education. But I have a *d
  
  Therefore, So I studied one year for a couple of hours at night, and now I am here.
 
- ##  Skills
+##  Skills
 
  **What I understand and have some experience:**
 
  HTML  CSS  JavaScript  react redux Bootstrap  Sass  jQuery  MySQL  babel  ES6  NPM Git  CMS Wordpress  Node.js  webpack  Adobe Photoshop
 
- ##  My projects
+##  My projects
 
 - [http://permanent-bel.by](http://permanent-bel.by) (wordpress);  
 - [http://lacomka.by](http://lacomka.by) (ocStore);  
