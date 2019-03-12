@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Japanese";
+  src: url("../assets/fonts/Japanese.eot"); /* IE9 Compat Modes */
+  src: url("../assets/fonts/Japanese.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../assets/fonts/Japanese.otf") format("opentype"), /* Open Type Font */
+    url("../assets/fonts/Japanese.svg") format("svg"), /* Legacy iOS */
+    url("../assets/fonts/Japanese.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./assets./fonts/Japanese.woff") format("woff"), /* Modern Browsers */
+    url("../assets/fonts/Japanese.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "DIN";
+  src: url("./assets/fonts/DIN.eot"); /* IE9 Compat Modes */
+  src: url("./assets/fonts/DIN.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("./assets/fonts/DIN.otf") format("opentype"), /* Open Type Font */
+    url("./assets/fonts/DIN.svg") format("svg"), /* Legacy iOS */
+    url("./assets/fonts/DIN.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("./assets/fonts/DIN.woff") format("woff"), /* Modern Browsers */
+    url("./assets/fonts/DIN.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
